@@ -8,10 +8,11 @@ Hello! I'm Daniel Santos, a Business Analyst with a passion for data analysis, s
 - **Tools**: Advanced Excel, Power BI, DOMO, GA 4 
 - **Languages**: Portuguese (native), English (fluent)
 
-## Experience
+## Experience 
+EDP COMERCIAL, Lisbon
 - ** Commerial Planning and Performance (jun23 - now)
 - ** Sales and Churn Strategy (set22 - jun23)
-  EDP COMERCIAL, Lisbon
+
 
 ## Education
 
