@@ -10,15 +10,15 @@ Hello! I'm Daniel Santos, a Business Analyst with a passion for data analysis, s
 
 ## Experience 
 EDP COMERCIAL, Lisbon
-- ** Commerial Planning and Performance (jun23 - now)
-- ** Sales and Churn Strategy (set22 - jun23)
+- Commerial Planning and Performance (jun23 - now)
+- Sales and Churn Strategy (set22 - jun23)
 
 
 ## Education
 
-- **Master's in Business Intelligence (2023-2025)  
+- Master's in Business Intelligence (2023-2025)  
   Information Management School (NOVA IMS, Lisbon)
-- **Bachelor's in Management (2019–2022)  
+- Bachelor's in Management (2019–2022)  
   Economic's Facultee of University of Coimbra (FEUC)
 
 ## Contact
