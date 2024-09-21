@@ -24,5 +24,5 @@ EDP COMERCIAL, Lisbon
 ## Contact
 
 Feel free to reach out to discuss potential collaborations or opportunities:
-- **Email**: danielpimpao@gmail.com
+- **Email**: danielpimpao@hotmail.com
 - **LinkedIn**: [Daniel Santos](https://www.linkedin.com/in/danielsimoessantos/)
