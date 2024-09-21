@@ -19,7 +19,7 @@ EDP COMERCIAL, Lisbon
 - Master's in Business Intelligence (2023-2025)  
   Information Management School (NOVA IMS, Lisbon)
 - Bachelor's in Management (2019–2022)  
-  Economic's Facultee of University of Coimbra (FEUC)
+  Faculty of economics at the university of coimbra (FEUC)
 
 ## Contact
 
